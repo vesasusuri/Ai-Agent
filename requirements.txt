@@ -1,0 +1,8 @@
+flask==2.0.1
+pytesseract==0.3.8
+opencv-python==4.5.3.56
+pillow==8.3.2
+pdf2image==1.16.0
+python-dateutil==2.8.2
+numpy==1.21.2
+werkzeug==2.0.1 
